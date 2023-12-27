@@ -1,5 +1,34 @@
 {
-	"users": [],
-	"albums": [],
-	"photos": []
+  "users": [
+    {
+      "name": "Alice Smith",
+      "id": 6
+    },
+    {
+      "name": "Ebony Robel",
+      "id": 7
+    },
+    {
+      "name": "William Weber",
+      "id": 9
+    },
+    {
+      "name": "Michelle Gislason",
+      "id": 12
+    },
+    {
+      "name": "Warren Johnson",
+      "id": 13
+    },
+    {
+      "name": "Clint Hansen",
+      "id": 16
+    },
+    {
+      "name": "Paul O'Hara",
+      "id": 18
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
