@@ -1,34 +1,90 @@
 {
   "users": [
     {
-      "name": "Alice Smith",
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Generic Fresh Computer",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Metal Pizza",
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Wooden Table",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Rubber Tuna",
+      "id": 24
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Cotton Mouse",
+      "id": 25
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Soft Ball",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86258",
+      "id": 1
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6654",
       "id": 6
     },
     {
-      "name": "Ebony Robel",
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42834",
       "id": 7
     },
     {
-      "name": "William Weber",
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94158",
+      "id": 8
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21882",
       "id": 9
     },
     {
-      "name": "Michelle Gislason",
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83457",
+      "id": 10
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62412",
       "id": 12
     },
     {
-      "name": "Warren Johnson",
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46305",
       "id": 13
-    },
-    {
-      "name": "Clint Hansen",
-      "id": 16
-    },
-    {
-      "name": "Paul O'Hara",
-      "id": 18
     }
-  ],
-  "albums": [],
-  "photos": []
+  ]
 }
